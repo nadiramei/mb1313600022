@@ -1,6 +1,6 @@
 # Periodt
 
-An app where users can track their period schedule. The app can **predict the user's future period schedule, ovulation day, and fertile window**. The cycle used for prediction of future period schedule is calculated by counting the days between the last day of the last period and the first day of the current period. The ovulation is calculated by substracting 14 days from the end of the period cycle, while the fertile window is predicted to be 5 days before the ovulation happen.
+An app where users can track their period schedule. The app can **predict the user's future period schedule, ovulation day, and fertile window**. The cycle used for prediction of future period schedule is calculated by counting the days between the last day of the last period and the first day of the current period. While ovulation might vary for each persons, this app uses the most commonly used method to calculate the probability of the ovulation day. The ovulation is calculated by substracting 14 days from the end of the period cycle, while the fertile window is predicted to be 5 days before the ovulation happen.
 
 The target segment for this app is people with uteruses that might want to **track their period and predict their fertile window**.
 
