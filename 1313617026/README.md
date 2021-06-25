@@ -9,25 +9,25 @@ This app features:
 * A start screen that will to redirect the user either to the login page or the registration page. The user can then log in or sign up using their email.
 
 <p align="center">
-<img src="./start screen.png" alt="demo of the login function" width="750" height="500">
+<img src="./start screen.png" alt="wireframe of the start, registration, and login pages" width="750" height="500">
 </p>
 
 * A calendar where the user can insert their period days and the app will predict when their next period, ovulation and fertile window will be.
 
 <p align="center">
-<img src="./calendar.png" alt="demo of the login function" width="250" height="500">
+<img src="./calend.png" alt="wireframe of the calendar page" width="250" height="500">
 </p>
 
 * A statistic that shows the average length of the user's period and period cycle.
 
 <p align="center">
-<img src="./analysis.png" alt="demo of the login function" width="250" height="500">
+<img src="./analysis.png" alt="wireframe of the statistic page" width="250" height="500">
 </p>
   
 * A settings screen where the user can manually change the average length of their period and period cycle, color scheme, and log out of the app.
 
 <p align="center">
-<img src="./settings.png" alt="demo of the login function" width="250" height="500">
+<img src="./settings.png" alt="wireframe of the settings page" width="250" height="500">
 </p>
 
 _by Nadira Meidina Yasmine_
