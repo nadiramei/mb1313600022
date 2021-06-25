@@ -6,7 +6,7 @@ The target segment for this app is people with uteruses that might want to **tra
 
 This app features:
 
-* A start screen that will to redirect the user either to the login page or the registration page. The user can log in with their email.
+* A start screen that will to redirect the user either to the login page or the registration page. The user can then log in or sign up their email.
 
 <p align="center">
 <img src="./start screen.png" alt="demo of the login function" width="750" height="500">
