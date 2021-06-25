@@ -12,13 +12,13 @@ This app features:
 <img src="./start screen.png" alt="wireframe of the start, registration, and login pages" width="750" height="500">
 </p>
 
-* A calendar where the user can insert their period days and the app will predict when their next period, ovulation and fertile window will be.
+* A calendar where the user can insert their period days and the app will predict when their next period, ovulation, and fertile window will be.
 
 <p align="center">
 <img src="./calend.png" alt="wireframe of the calendar page" width="250" height="500">
 </p>
 
-* A statistic that shows the average length of the user's period and period cycle.
+* A graph that shows the average length of the user's period and period cycle.
 
 <p align="center">
 <img src="./analysis.png" alt="wireframe of the statistic page" width="250" height="500">
