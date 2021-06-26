@@ -15,7 +15,7 @@ This app features:
 * A calendar where the user can insert their period days and the app will predict when their next period, ovulation, and fertile window will be.
 
 <p align="center">
-<img src="./calend.png" alt="wireframe of the calendar page" width="250" height="500">
+<img src="./calendr.png" alt="wireframe of the calendar page" width="250" height="500">
 </p>
 
 * A graph that shows the average length of the user's period and period cycle.
